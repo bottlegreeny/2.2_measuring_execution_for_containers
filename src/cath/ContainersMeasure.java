@@ -114,9 +114,9 @@ public class ContainersMeasure {
 		ArrayListOperations ();
 		LinkedListOperations();
 		HashSetOperations();
-	    TreeSetOperations();
-	    HashMapOperations();
-	    TreeMapOperations();
+	        TreeSetOperations();
+	        HashMapOperations();
+	        TreeMapOperations();
 	    
 		
 		
